@@ -1,0 +1,6 @@
+In JavaScript, if a variable is not initialized explicitly, it will by default have a primitive data
+type of `undefined`. This can be avoided by initializing the variable as an empty string.
+
+Source: https://stackoverflow.com/questions/28665160/simple-js-for-loop-returning-undefined
+
+
